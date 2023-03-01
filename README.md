@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Ajith. A Final Year Undergraduate Student working on Web Development and Blockchain.
+
